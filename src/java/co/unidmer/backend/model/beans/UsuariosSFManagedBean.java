@@ -16,9 +16,7 @@ import javax.enterprise.context.Dependent;
 @Dependent
 public class UsuariosSFManagedBean {
 
-    /**
-     * Creates a new instance of UsuariosSFManagedBean
-     */
+   
     public UsuariosSFManagedBean() {
     }
     
