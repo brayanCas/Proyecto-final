@@ -8,10 +8,7 @@ package co.unidmer.backend.model.Beans;
 import javax.inject.Named;
 import javax.enterprise.context.Dependent;
 
-/**
- *
- * @author USUARIO
- */
+
 @Named(value = "usuarioJSFManagedBean")
 @Dependent
 public class UsuarioJSFManagedBean {
